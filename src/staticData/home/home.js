@@ -63,8 +63,8 @@ export const introduce = {
     title: "INTRODUCE",
   },
   heading: {
-    heading1: "I Craft The",
-    heading2: "Digital Landscape",
+    heading1: "Technical SEO",
+    heading2: "& Data Enthusiast",
   },
   desc: (
     <p>
