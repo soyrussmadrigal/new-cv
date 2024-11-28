@@ -190,7 +190,7 @@ export const userDetailsSidebar = {
     {
       id: 1,
       field: "Residence",
-      value: "Canada",
+      value: "Costa Rica",
     },
     {
       id: 2,
