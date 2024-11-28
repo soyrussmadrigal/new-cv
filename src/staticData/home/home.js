@@ -70,7 +70,7 @@ export const introduce = {
     <p>
       I am a{" "}
       <span className="font-medium text-black dark:text-white/90">
-        Frontend Developer
+        Senior Technical SEO & Data Enthusiast
       </span>{" "}
       at heart and, i create features that are best suited for the job at hand.
     </p>
@@ -184,8 +184,8 @@ export const userDetails = [
 export const userDetailsSidebar = {
   userImage: userImage,
   userImageLight: userImageLight,
-  userName: "Brown Reddick",
-  designations: ["Web Developer", "Photographer", "Web Designer"],
+  userName: "Rus Madrigal",
+  designations: ["Technical SEO", "Data enthusiast", "Front-End Developer"],
   basicInfo: [
     {
       id: 1,
@@ -195,12 +195,12 @@ export const userDetailsSidebar = {
     {
       id: 2,
       field: "City",
-      value: "Toronto",
+      value: "San Jose",
     },
     {
       id: 3,
       field: "Age",
-      value: "26",
+      value: "35",
     },
   ],
   skillsInfo: [
@@ -221,8 +221,8 @@ export const userDetailsSidebar = {
     },
     {
       id: 4,
-      name: "PHP",
-      value: 90,
+      name: "NextJS",
+      value: 70,
     },
   ],
 };
@@ -230,7 +230,7 @@ export const userDetailsSidebar = {
 export const projectExperiences = [
   {
     title: "Years Of Experience",
-    count: 185,
+    count: 14,
     postFix: true,
   },
   {
