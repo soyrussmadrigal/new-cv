@@ -24,7 +24,7 @@ import jsImage from "@/public/assets/img/skill/js.svg";
 import jqueryImage from "@/public/assets/img/skill/jquery.svg";
 
 import partner1Image from "@/public/assets/img/partners/logo1.png";
-import partner2Image from "@/public/assets/img/partners/logo2.svg";
+import partner2Image from "@/public/assets/img/partners/logo2.png";
 
 
 import userImage from "@/public/assets/img/user-sidebar-thumb.png";
@@ -96,7 +96,7 @@ export const partners = [
   },
   {
     imgUrl: partner2Image,
-    altText: "Partner Name 2",
+    altText: "Publicis Groupe",
     link: "#",
   },
 ];
