@@ -34,7 +34,7 @@ const Hero = () => {
             </ul>
             <ul className="mt-7 buttons">
               <li data-scroll-nav="8">
-                <Button text="HIRE ME" prefix={<IoMdPaperPlane size={18} />} />
+                <Button text="CONTACT ME" prefix={<IoMdPaperPlane size={18} />} />
               </li>
             </ul>
           </div>
@@ -62,7 +62,7 @@ const Hero = () => {
           <div className="items-center grid-cols-12 overflow-hidden md:grid">
             <div className="hidden col-span-2 md:inline-block">
               <h6 className="font-medium text-black dark:text-white/80 text-sm md:max-w-[8rem] border-l border-theme pl-4">
-                Trusted companies
+               Companies / Projects
               </h6>
             </div>
             <div className="col-span-10 logo-slider">

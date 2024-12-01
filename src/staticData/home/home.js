@@ -23,10 +23,9 @@ import cssImage from "@/public/assets/img/skill/css.svg";
 import jsImage from "@/public/assets/img/skill/js.svg";
 import jqueryImage from "@/public/assets/img/skill/jquery.svg";
 
-import partner1Image from "@/public/assets/img/partners/logo1.svg";
+import partner1Image from "@/public/assets/img/partners/logo1.png";
 import partner2Image from "@/public/assets/img/partners/logo2.svg";
-import partner3Image from "@/public/assets/img/partners/logo3.svg";
-import partner4Image from "@/public/assets/img/partners/logo4.svg";
+
 
 import userImage from "@/public/assets/img/user-sidebar-thumb.png";
 import userImageLight from "@/public/assets/img/user-sidebar-thumb-light.png";
@@ -60,7 +59,7 @@ import { IoHomeOutline } from "react-icons/io5";
 export const introduce = {
   iconBox: {
     Icon: <IoHomeOutline className="text-theme" size={14} />,
-    title: "INTRODUCE",
+    title: "WELCOME",
   },
   heading: {
     heading1: "Technical SEO",
@@ -98,41 +97,6 @@ export const partners = [
   {
     imgUrl: partner2Image,
     altText: "Partner Name 2",
-    link: "#",
-  },
-  {
-    imgUrl: partner3Image,
-    altText: "Partner Name 3",
-    link: "#",
-  },
-  {
-    imgUrl: partner4Image,
-    altText: "Partner Name 4",
-    link: "#",
-  },
-  {
-    imgUrl: partner2Image,
-    altText: "Partner Name 5",
-    link: "#",
-  },
-  {
-    imgUrl: partner4Image,
-    altText: "Partner Name 6",
-    link: "#",
-  },
-  {
-    imgUrl: partner2Image,
-    altText: "Partner Name 7",
-    link: "#",
-  },
-  {
-    imgUrl: partner4Image,
-    altText: "Partner Name 8",
-    link: "#",
-  },
-  {
-    imgUrl: partner2Image?.src,
-    altText: "Partner Name 9",
     link: "#",
   },
 ];
