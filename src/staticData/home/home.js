@@ -91,8 +91,8 @@ export const introduce = {
 export const partners = [
   {
     imgUrl: partner1Image,
-    altText: "Partner Name 1",
-    link: "#",
+    altText: "Sportsbook Review",
+    link: "https://bit.ly/3Zivq8z",
   },
   {
     imgUrl: partner2Image,
