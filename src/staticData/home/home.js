@@ -68,11 +68,11 @@ export const introduce = {
   },
   desc: (
     <p>
-      I am a{" "}
+    {" "}
       <span className="font-medium text-black dark:text-white/90">
         Senior Technical SEO & Data Enthusiast
       </span>{" "}
-      at heart and, i create features that are best suited for the job at hand.
+      Passionate about SEO since 2009. Specialist in Technical SEO with experience in Web Development and Digital Analytics.
     </p>
   ),
   jobs: [
@@ -83,7 +83,7 @@ export const introduce = {
     },
     {
       id: 2,
-      title: "Full Time Job",
+      title: "English & Spanish",
       icon: <BiCheckDouble size={25} className="text-theme mr-1" />,
     },
   ],
