@@ -12,7 +12,7 @@ const ModeSwitcher = () => {
   const { theme, setTheme } = useTheme();
 
   useEffect(() => {
-    setMounted(true);
+    setMounted(false);
   }, []);
 
   if (!mounted) {

@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
         className={`${poppins.className} relative`}
         suppressHydrationWarning={true}
       >
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
           <main>
             {children}
             <CustomCursor />
