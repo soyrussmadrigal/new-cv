@@ -30,11 +30,8 @@ const AboutMe = () => {
             <span className="text-black dark:text-white">
               {userDetailsSidebar?.userName}
             </span>{" "}
-            and I began using WordPress when first began. spent most of my
-            waking hours for the last ten years designing, programming and
-            operating{" "}
-            <span className="text-black dark:text-white"> WordPress</span> sites
-            go beyond with exclusive designer.
+            Since 2009, I’ve worked in various areas of SEO, including analytics, on-page optimization, and coding. For the past six years, I’ve primarily focused on the technical side of SEO, as it’s the area I’m most passionate about. {" "}
+            <span className="text-black dark:text-white"> Additionally</span>, I am a ReactJS Front-End Developer.
           </p>
         </div>
         <div className="mt-6 section-content">
