@@ -25,7 +25,9 @@ import jqueryImage from "@/public/assets/img/skill/jquery.svg";
 
 import partner1Image from "@/public/assets/img/partners/logo1.png";
 import partner2Image from "@/public/assets/img/partners/logo2.png";
-
+import partner3Image from "@/public/assets/img/partners/logo3.png";
+import partner4Image from "@/public/assets/img/partners/logo4.png";
+import partner5Image from "@/public/assets/img/partners/logo5.png";
 
 import userImage from "@/public/assets/img/user-sidebar-thumb.png";
 import userImageLight from "@/public/assets/img/user-sidebar-thumb-light.png";
@@ -67,11 +69,12 @@ export const introduce = {
   },
   desc: (
     <p>
-    {" "}
+      {" "}
       <span className="font-medium text-black dark:text-white/90">
         Senior Technical SEO & Data Enthusiast
       </span>{" "}
-      Passionate about SEO since 2009. Specialist in Technical SEO with experience in Web Development and Digital Analytics.
+      Passionate about SEO since 2009. Specialist in Technical SEO with
+      experience in Web Development and Digital Analytics.
     </p>
   ),
   jobs: [
@@ -97,6 +100,21 @@ export const partners = [
   {
     imgUrl: partner2Image,
     altText: "Publicis Groupe",
+    link: "#",
+  },
+  {
+    imgUrl: partner3Image,
+    altText: "Tripadvisor",
+    link: "#",
+  },
+  {
+    imgUrl: partner4Image,
+    altText: "Tripadvisor",
+    link: "#",
+  },
+  {
+    imgUrl: partner5Image,
+    altText: "Strategic Group",
     link: "#",
   },
 ];
