@@ -24,8 +24,8 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Minfo - Personal Resume/vCard Nextjs Template",
-  description: "Minfo - Personal Resume/vCard Nextjs Template",
+  title: "Hello, I'm Rus Madrigal | Senior SEO & Web Developer",
+  description: "Senior SEO professional with over 14 years of experience. Here, you can find my CV and examples of my previous work.",
 };
 
 export default function RootLayout({ children }) {
