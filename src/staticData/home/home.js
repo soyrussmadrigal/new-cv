@@ -123,18 +123,72 @@ export const technologies = [
   {
     id: 1,
     title: "HTML5 & CSS3",
-    skill: "94",
+    skill: "90",
     url: "#",
   },
   {
     id: 2,
-    title: "Bootstrap",
-    skill: "98",
+    title: "NextJS",
+    skill: "80",
     url: "#",
   },
   {
     id: 3,
-    title: "TailwindCSS",
+    title: "SQL",
+    skill: "70",
+    url: "#",
+  },
+  {
+    id: 4,
+    title: "Looker Studio",
+    skill: "90",
+    url: "#",
+  },
+  {
+    id: 5,
+    title: "Tableau",
+    skill: "60",
+    url: "#",
+  },
+  {
+    id: 6,
+    title: "Power BI",
+    skill: "60",
+    url: "#",
+  },
+  {
+    id: 7,
+    title: "Adobe Analytics",
+    skill: "65",
+    url: "#",
+  },
+  {
+    id: 8,
+    title: "Jira Software",
+    skill: "70",
+    url: "#",
+  },
+  {
+    id: 9,
+    title: "Semrush",
+    skill: "90",
+    url: "#",
+  },
+  {
+    id: 10,
+    title: "Screaming Frog",
+    skill: "90",
+    url: "#",
+  },
+  {
+    id: 11,
+    title: "Hrefs",
+    skill: "90",
+    url: "#",
+  },
+  {
+    id: 9,
+    title: "WordPress",
     skill: "90",
     url: "#",
   },
@@ -143,23 +197,23 @@ export const technologies = [
 export const userDetails = [
   {
     field: "Phone",
-    value: "+(2) 870 174 302",
+    value: "+(506) 8777 3420",
   },
   {
-    field: "Skype",
-    value: "brown@com",
+    field: "WahtsApp",
+    value: "+(506) 8777 3420",
   },
   {
     field: "Language",
-    value: "English, Dutch, Spanish",
+    value: "English, Spanish",
   },
   {
     field: "Email",
-    value: "info@example.com",
+    value: "rusbenmadrigal@gmail.com",
   },
   {
     field: "GitHub",
-    value: "github.com/user",
+    value: "github.com/soyrussmadrigal",
   },
 ];
 
