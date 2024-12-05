@@ -322,7 +322,7 @@ export const services = {
       number: "04",
       title: "General SEO Consulting",
       desc: "Experienced in SEO consulting, including resolving queries, conducting audits, and providing strategic guidance to enhance online visibility.",
-      icon: <BrandingIcon />,
+      icon: <EmailIcon />,
     },
   ],
 };
@@ -331,46 +331,46 @@ export const skills = {
   skillsHeading: {
     icon: <FaGraduationCap className="text-theme" />,
     title: "SKILLS",
-    heading: "My",
-    coloredHeading: "Advantages",
+    heading: "Tools &",
+    coloredHeading: "Tech Stack",
     description:
-      "I design products that are more than pretty. I make them shippable and usable, ttempor non mollit dolor et do aute",
+      "I am proficient in a variety of SEO tools and tech stacks. Below is a list of the ones I use most frequently in my daily work.",
   },
   skillsData: [
     {
       image: figmaImage?.src,
       percent: 90,
-      name: "Figma",
+      name: "NextJS",
     },
     {
       image: webflowImage?.src,
       percent: 85,
-      name: "Webflow",
+      name: "HTML5",
     },
     {
       image: tailwindImage?.src,
-      percent: 90,
+      percent: 70,
       name: "Tailwind",
     },
     {
       image: htmlImage?.src,
-      percent: 95,
-      name: "HTML5",
+      percent: 80,
+      name: "JavaScript",
     },
     {
       image: cssImage?.src,
-      percent: 95,
-      name: "CSS3",
+      percent: 90,
+      name: "WordPress",
     },
     {
       image: jsImage?.src,
-      percent: 75,
-      name: "JavaScript",
+      percent: 80,
+      name: "Screaming Frog",
     },
     {
       image: jqueryImage?.src,
       percent: 70,
-      name: "jQuery",
+      name: "Semrush",
     },
   ],
 };
