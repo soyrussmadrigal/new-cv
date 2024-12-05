@@ -343,7 +343,7 @@ export const skills = {
       name: "NextJS",
     },
     {
-      image: webflowImage?.src,
+      image: htmlImage?.src,
       percent: 85,
       name: "HTML5",
     },
@@ -353,7 +353,7 @@ export const skills = {
       name: "Tailwind",
     },
     {
-      image: htmlImage?.src,
+      image: jsImage?.src,
       percent: 80,
       name: "JavaScript",
     },
