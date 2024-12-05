@@ -16,12 +16,12 @@ import { GrTasks } from "react-icons/gr";
 import { BiCheckDouble, BiCommentCheck } from "react-icons/bi";
 
 import nextjsImage from "@/public/assets/img/skill/nextjs.svg";
-import webflowImage from "@/public/assets/img/skill/webflow.svg";
+import screamingfrogImage from "@/public/assets/img/skill/screamingfrog.svg";
 import tailwindImage from "@/public/assets/img/skill/tailwind.svg";
 import htmlImage from "@/public/assets/img/skill/html.svg";
-import cssImage from "@/public/assets/img/skill/css.svg";
+import wordpressImage from "@/public/assets/img/skill/wordpress.svg";
 import jsImage from "@/public/assets/img/skill/js.svg";
-import jqueryImage from "@/public/assets/img/skill/jquery.svg";
+import semrusImage from "@/public/assets/img/skill/semrush.svg";
 
 import partner1Image from "@/public/assets/img/partners/logo1.png";
 import partner2Image from "@/public/assets/img/partners/logo2.png";
@@ -358,18 +358,18 @@ export const skills = {
       name: "JavaScript",
     },
     {
-      image: cssImage?.src,
-      percent: 90,
+      image: wordpressImage?.src,
+      percent: 85,
       name: "WordPress",
     },
     {
-      image: jsImage?.src,
+      image: screamingfrogImage?.src,
       percent: 80,
       name: "Screaming Frog",
     },
     {
-      image: jqueryImage?.src,
-      percent: 70,
+      image: semrusImage?.src,
+      percent: 90,
       name: "Semrush",
     },
   ],
