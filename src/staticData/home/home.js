@@ -270,18 +270,18 @@ export const projectExperiences = [
     postFix: true,
   },
   {
-    title: "Handled Projects",
-    count: 12,
+    title: "Travel Indsutry",
+    count: 10,
     postFix: true,
   },
   {
-    title: "Open Source Libraries",
-    count: 5,
+    title: "Financial Industry",
+    count: 7,
     postFix: true,
   },
   {
-    title: "Awards Won",
-    count: 18,
+    title: "Enterprise Industry",
+    count: 10,
     postFix: false,
   },
 ];
