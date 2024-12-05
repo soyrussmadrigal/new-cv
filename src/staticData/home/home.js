@@ -15,7 +15,7 @@ import {
 import { GrTasks } from "react-icons/gr";
 import { BiCheckDouble, BiCommentCheck } from "react-icons/bi";
 
-import figmaImage from "@/public/assets/img/skill/figma.svg";
+import nextjsImage from "@/public/assets/img/skill/nextjs.svg";
 import webflowImage from "@/public/assets/img/skill/webflow.svg";
 import tailwindImage from "@/public/assets/img/skill/tailwind.svg";
 import htmlImage from "@/public/assets/img/skill/html.svg";
@@ -338,8 +338,8 @@ export const skills = {
   },
   skillsData: [
     {
-      image: figmaImage?.src,
-      percent: 90,
+      image: nextjsImage?.src,
+      percent: 70,
       name: "NextJS",
     },
     {
