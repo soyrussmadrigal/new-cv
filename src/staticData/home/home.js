@@ -382,29 +382,29 @@ export const resume = {
     heading: "Work",
     coloredHeading: "Experience",
     description:
-      "I design products that are more than pretty. I make them shippable and usable, ttempor non mollit dolor et do aute",
+      "Below, you will find information about the companies I've worked for and the roles I've held. This list provides a summary of the most important details (I value your time), but it does not include every company I have worked for.",
   },
   resumeData: [
     {
-      platform: "Envato Market",
-      duration: "Mar, 2022 - Current",
-      position: "Lead UX Designer",
+      platform: "Publicis Groupe",
+      duration: "Feb, 2023 - Current",
+      position: "Media Delivery Associate Director",
       description:
-        "Owing to advancements in product other designer technologies aute voluptate.",
+        "SEO Lead for Publicis Groupe in the Global Delivery LATAM division. In addition to managing SEO strategies for European brands, I hold a leadership role in LATAM, responsible for growing the team and collaborating with the business team when new SEO clients are onboarded.",
     },
     {
-      platform: "Google",
-      duration: "2018 - 2022",
-      position: "UX Designer",
+      platform: "SportsBook Review",
+      duration: "2022 - 2023",
+      position: "Technical SEO Manager",
       description:
-        "Owing to advancements in product other designer technologies aute voluptate.",
+        "I first joined SportsBook Review in 2016, took a brief hiatus, and returned in 2022. I worked as a Technical SEO Manager, overseeing all aspects of code-level optimization for the main website as well as other sites under the parent brand. My work primarily involved programming languages such as PHP and ReactJS.",
     },
     {
-      platform: "Apple",
-      duration: "2014-2018",
-      position: "Human Interface Designer",
+      platform: "TripAdvisor",
+      duration: "2016-2018",
+      position: "Technical SEO Specialist",
       description:
-        "Owing to advancements in product other designer technologies aute voluptate.",
+        "I had the opportunity to work with Tripadvisor as a contractor. My role focused on code-level optimization, and I also collaborated with the web analytics team.",
     },
   ],
 };
