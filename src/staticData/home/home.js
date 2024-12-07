@@ -450,7 +450,7 @@ export const portfolio = {
     heading: "Featured ",
     coloredHeading: "Projects",
     description:
-      "I design products that are more than pretty. I make them shippable and usable, ttempor non mollit dolor et do aute",
+      "Below, you can find some of the projects I’ve worked on. These are personal projects categorized as “experiments,” so they do not reflect a commercial focus. Additionally, all the information shared is 100% my own work.",
   },
   projectsData: [
     {
