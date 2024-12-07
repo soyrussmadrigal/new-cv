@@ -458,10 +458,10 @@ export const portfolio = {
       image: {
         thumbnail: portfolioImage1Thumb?.src,
         image: portfolioImage1?.src,
-        thumbnailText1: "Design",
-        thumbnailText2: "Specialization",
+        thumbnailText1: "SEO Experiment",
+        thumbnailText2: "Optimization",
       },
-      type: "Branding",
+      type: "seo",
       title: "Three wine glasses filled with candies",
       slug: "three-wine-glasses-filled-with-candies",
       projectHeading: {
@@ -499,8 +499,8 @@ export const portfolio = {
       image: {
         thumbnail: portfolioImage2Thumb?.src,
         image: portfolioImage2?.src,
-        thumbnailText1: "Design",
-        thumbnailText2: "Specialization",
+        thumbnailText1: "SEO",
+        thumbnailText2: "Optimization",
       },
       type: "Branding",
       title: "Three wine glasses filled with candies",
