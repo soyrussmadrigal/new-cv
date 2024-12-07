@@ -401,7 +401,7 @@ export const resume = {
     },
     {
       platform: "TripAdvisor",
-      duration: "2016-2018",
+      duration: "2018-2021",
       position: "Technical SEO Specialist",
       description:
         "I had the opportunity to work with Tripadvisor as a contractor. My role focused on code-level optimization, and I also collaborated with the web analytics team.",
@@ -416,29 +416,29 @@ export const educations = {
     heading: "My",
     coloredHeading: "Education",
     description:
-      "I design products that are more than pretty. I make them shippable and usable, ttempor non mollit dolor et do aute",
+      "I’m someone who values experience and proactivity over degrees. I pursued a Bachelor's degree in Business Administration with an emphasis in Marketing at U Latina, San Pedro campus. Additionally, I have completed online studies through various platforms, covering topics such as GA-4, Semrush, Tableau, Adobe, and more.",
   },
   educationsData: [
     {
-      institution: "Oxford University",
-      duration: "2016-2018",
-      degree: "Diploma in Computer",
+      institution: "U Latina, Costa Rica",
+      duration: "2009-2014",
+      degree: "Business Bachelor Degree",
       description:
-        "Owing to advancements in product other designer technologies aute voluptate.",
+        "Bachelor's Degree in Business Administration with an emphasis in Marketing.",
     },
     {
-      institution: "Google",
-      duration: "2018 - 2022",
-      degree: "BSc in Engineering",
+      institution: "Boston University",
+      duration: "2012 - 2017",
+      degree: "Front-End Development",
       description:
-        "Owing to advancements in product other designer technologies aute voluptate.",
+        "Introduction to Object-Oriented Programming with a focus on Front-End Development. During this course, I learned to work with PHP, JavaScript, CSS, HTML, frameworks, and other technologies centered on Front-End development.",
     },
     {
-      institution: "Oxford University",
-      duration: "2014-2018",
-      degree: "Php Development",
+      institution: "U Sabana, Colombia",
+      duration: "2023",
+      degree: "Agile Methodologies",
       description:
-        "Owing to advancements in product other designer technologies aute voluptate.",
+        "Project management preparation program focused on Agile methodologies, such as Scrum.",
     },
   ],
 };
