@@ -849,10 +849,10 @@ export const testimonials = {
   testimonialsHeading: {
     icon: <BiCommentCheck className="text-theme" />,
     title: "TESTIMONIAL",
-    heading: "What",
-    coloredHeading: "People Say",
+    heading: "LinkedIn",
+    coloredHeading: "Reviews",
     description:
-      "I design products that are more than pretty. I make them shippable and usable, ttempor non mollit dolor et do aute",
+      "Here are some reviews extracted from my LinkedIn profile. You can verify their authenticity by visiting my official profile: linkedin.com/in/rusmadrigal/.",
   },
   testimonialsData: [
     {
@@ -860,27 +860,32 @@ export const testimonials = {
       image: author1?.src,
       desc: (
         <div className="text-sm md:text-[15px] leading-loose content">
-          Working with <span className="font-semibold text-theme">Reddick</span>{" "}
-          is a game-changer. Their coding expertise and commitment to quality
-          make every project a success.
+          Discovering true and good SEO's in Central America is something like
+          finding a needle in a haystack.{" "}
+          <span className="font-semibold text-theme">
+            If you come upon Rusbell you have found a golden needle. Take care
+            of it!
+          </span>{" "}
         </div>
       ),
-      name: "Alex Johnson",
-      position: "Developer",
+      name: "Rodigo De Bedout",
+      position: "Web Design & Development",
     },
     {
       id: 2,
       image: author2?.src,
       desc: (
         <div className="text-sm md:text-[15px] leading-loose content">
-          <span className="font-semibold text-theme">Reddick</span> exceeds
-          expectations with top-tier coding skills. Reliable, collaborative, and
-          a true asset to any project. Highly recommended
+          <span className="font-semibold text-theme">Rusbell</span> is a multi
+          talented young man with excellent customer service skills. He always
+          responds with a professional, up beat and genuinely attentive attitude
+          to all work projects under his responsibility.
         </div>
       ),
-      name: "Mily Martin",
-      position: "CEO @IT Theme",
+      name: "Faith Anne Mulvihill",
+      position: "Licensed Real Estate Broker Chicago",
     },
+    /*
     {
       id: 3,
       image: author1?.src,
@@ -894,6 +899,7 @@ export const testimonials = {
       name: "Alex Johnson",
       position: "Developer",
     },
+    */
   ],
 };
 
@@ -904,25 +910,25 @@ export const contactInfo = {
     heading: "Contact",
     coloredHeading: "Me.",
     description:
-      "I design products that are more than pretty. I make them shippable and usable, ttempor non mollit dolor et do aute",
+      "If you need to get in touch with me, please use the contact methods listed below. I’ll do my best to respond as quickly as possible.",
   },
   contactInfoData: [
     {
       id: 1,
       field: "Location",
-      data: "Melbourne Street. No 20",
+      data: "San Jose, Costa Rica",
       Icon: <LocationIcon />,
     },
     {
       id: 2,
       field: "E-mail",
-      data: "smith@gmail.com",
+      data: "rusbenmadrigal@gmail.com",
       Icon: <EmailIcon />,
     },
     {
       id: 3,
-      field: "Phone",
-      data: "+976 34 99 99",
+      field: "WhatsApp",
+      data: "+506 8777 3420",
       Icon: <PhoneIcon />,
     },
   ],
