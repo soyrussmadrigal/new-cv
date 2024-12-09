@@ -627,7 +627,7 @@ export const blogs = {
     heading: "Latest",
     coloredHeading: "Insights",
     description:
-      "I design products that are more than pretty. I make them shippable and usable, ttempor non mollit dolor et do aute",
+      "In this section, you can find the latest SEO articles related to the projects I’ve created, as well as interesting insights into the search engine industry.",
   },
   blogsData: [
     {
@@ -635,10 +635,10 @@ export const blogs = {
         thumbnail: blog1Thumbnail?.src,
         image: blog1Image?.src,
       },
-      category: "UI Design",
-      date: "03 May 2023",
-      title: "Elevate your mornings with perfectly brewed coffee",
-      slug: "elevate-your-mornings-with-perfectly-brewed-coffee",
+      category: "SEO",
+      date: "03 Jan 2025",
+      title: "Ranking Behavior of Arauze.com with AI-Generated Content",
+      slug: "arauze-seo-project",
       blogInfo: {
         projectHeading: {
           icon: <FaBlog className="text-theme" />,
@@ -672,6 +672,7 @@ export const blogs = {
         },
       },
     },
+    /*
     {
       image: {
         thumbnail: blog2Thumbnail?.src,
@@ -840,6 +841,7 @@ export const blogs = {
         },
       },
     },
+    */
   ],
 };
 
