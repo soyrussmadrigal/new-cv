@@ -427,7 +427,7 @@ export const educations = {
         "Bachelor's Degree in Business Administration with an emphasis in Marketing.",
     },
     {
-      institution: "Boston University",
+      institution: "Boston Institute, Costa Rica",
       duration: "2012 - 2017",
       degree: "Front-End Development",
       description:
@@ -463,7 +463,7 @@ export const portfolio = {
       },
       type: "seo",
       title: "Three wine glasses filled with candies",
-      slug: "three-wine-glasses-filled-with-candies",
+      slug: "arauze-website-experimennt",
       projectHeading: {
         icon: <GrTasks className="text-theme" />,
         title: "Project Details",
@@ -494,6 +494,7 @@ export const portfolio = {
         projectImage: [projectInner1Image?.src, projectInner2Image?.src],
       },
     },
+    /*
     {
       id: 2,
       image: {
@@ -617,6 +618,7 @@ export const portfolio = {
         projectImage: [projectInner1Image?.src, projectInner2Image?.src],
       },
     },
+    */
   ],
 };
 

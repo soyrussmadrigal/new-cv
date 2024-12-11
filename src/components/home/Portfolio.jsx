@@ -57,7 +57,7 @@ const Portfolio = () => {
         </div>
 
         <div className="mt-10 text-center more-blogs md:mt-13">
-          <Button text="More Projects" />
+          {/*<Button text="More Projects" />*/}
         </div>
       </div>
     </div>
