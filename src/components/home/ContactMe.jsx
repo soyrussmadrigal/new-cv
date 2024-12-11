@@ -77,7 +77,7 @@ const ContactMe = () => {
                   className="w-full px-5 py-4 text-sm outline-none focus:border-theme dark:placeholder:text-white/40"
                 />
               </div>
-              <div className=" form-group">
+              <div className="form-group">
                 <button
                   type="submit"
                   className="inline-flex items-center gap-2 text-[15px] font-medium border border-theme bg-theme text-white py-4.5 px-9 rounded-4xl leading-none transition-all duration-300 hover:bg-themeHover hover:border-themeHover"
@@ -91,7 +91,7 @@ const ContactMe = () => {
         </div>
         <iframe
           className="w-full overflow-hidden border-10 border-platinum dark:border-greyBlack embed-map h-80 2xl:h-96 rounded-2xl"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25908.703277839155!2d-74.18208878159237!3d40.640176526919696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1699271377092!5m2!1sen!2sbd"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62879.696376155225!2d-84.1912852672011!3d9.935536640551575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0e342c50d15c5%3A0xe6746a6a9f11b882!2sSan%20Jos%C3%A9%20Province%2C%20San%20Jos%C3%A9%2C%20Costa%20Rica!5e0!3m2!1sen!2sbd!4v1733931555146!5m2!1sen!2sbd"
           aria-label="Contact Map"
         />
       </div>
