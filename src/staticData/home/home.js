@@ -462,7 +462,7 @@ export const portfolio = {
         thumbnailText2: "Optimization",
       },
       type: "seo",
-      title: "Three wine glasses filled with candies",
+      title: "Arauze.com - SEO experiment project in the Italian market",
       slug: "arauze-website-experimennt",
       projectHeading: {
         icon: <GrTasks className="text-theme" />,
@@ -470,16 +470,16 @@ export const portfolio = {
       },
       projectInfo: [
         {
-          field: "CLIENT",
-          value: "Envato Theme",
+          field: "TYPE",
+          value: "Experiment",
         },
         {
-          field: "SERVICES:",
-          value: "Tips & Tricks, Design",
+          field: "MARKET:",
+          value: "Italyn",
         },
         {
           field: "DURATION",
-          value: "108 hrs",
+          value: "12 months",
         },
       ],
       projectDescription: {
