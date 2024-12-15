@@ -485,7 +485,7 @@ export const portfolio = {
       projectDescription: {
         descriptionTitle: "Project Description",
         description:
-          "Patent authorities globally are grappling with the challenge of redefining their approach to handling inventions generated not by human ingenuity but by AI. It has sparked considerable debate within the intellectual property community. This analysis initiates a three-part series that delves into the influence of AI on intellectual property rights.",
+          "Arauze.com è un progetto avviato il 1° gennaio 2024, focalizzato su contenuti relativi a tasse, denaro, fisco e altri aspetti legati alle finanze personali.",
         descriptionLists: [
           "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
           "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
@@ -663,7 +663,7 @@ export const blogs = {
         projectDescription: {
           descriptionTitle: "Cappuccino Bliss",
           description:
-            "Patent authorities globally are grappling with the challenge of redefining their approach to handling inventions generated not by human ingenuity but by AI. It has sparked considerable debate within the intellectual property community.",
+            "Arauze.com è un progetto avviato il 1° gennaio 2024, focalizzato su contenuti relativi a tasse, denaro, fisco e altri aspetti legati alle finanze personali.",
           descriptionListsTitle: "Benifits of coffee",
           descriptionLists: [
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
