@@ -485,7 +485,7 @@ export const portfolio = {
       projectDescription: {
         descriptionTitle: "Project Description",
         description:
-          "Arauze.com è un progetto avviato il 1° gennaio 2024, focalizzato su contenuti relativi a tasse, denaro, fisco e altri aspetti legati alle finanze personali.",
+          "Arauze.com is an experimental project where various tests have been conducted to analyze how Google's algorithm behaves throughout 2023.",
         descriptionLists: [
           "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
           "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
