@@ -487,9 +487,9 @@ export const portfolio = {
         description:
           "Arauze.com is an experimental project where various tests have been conducted to analyze how Google's algorithm behaves throughout 2023.",
         descriptionLists: [
-          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
-          "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-          "Excepteur sint occaecat cupidatat non proident, sunt in culpa",
+          "It is an Italian language project, focused on finance.",
+          "The project started on January 1, 2023.",
+          "The project received a penalty for AI-generated content.",
         ],
         projectImage: [projectInner1Image?.src, projectInner2Image?.src],
       },
