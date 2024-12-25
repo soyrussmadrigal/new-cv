@@ -28,7 +28,6 @@ export default function SingleBlog({ params }) {
           <BlogHero blog={blog} />
 
           <BlogDescription blog={blog} />
-          <BlogComment />
         </div>
       </div>
       <Footer />
