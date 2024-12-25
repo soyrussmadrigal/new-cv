@@ -649,26 +649,26 @@ export const blogs = {
         projectInfo: [
           {
             field: "POSTED BY",
-            value: "Adrinao Smith",
+            value: "Rus Madrigal",
           },
           {
             field: "CATEGORY:",
-            value: "Tips & Tricks, Design",
+            value: "SEO",
           },
           {
             field: "POSTED ON:",
-            value: "Noveber 01, 2023",
+            value: "December 25, 2024",
           },
         ],
         projectDescription: {
-          descriptionTitle: "Cappuccino Bliss",
+          descriptionTitle: "Lessons learned from the 2024 SEO experiment",
           description:
-            "Arauze.com è un progetto avviato il 1° gennaio 2024, focalizzato su contenuti relativi a tasse, denaro, fisco e altri aspetti legati alle finanze personali.",
-          descriptionListsTitle: "Benifits of coffee",
+            "This has been an experiment project started on January 1, 2024. Over the last 12 months the project has experienced increases in indexed keywords and organic traffic.In mid-August, 2024 the project suffered an algorithmic penalty for 100% AI generated content. In the last few months I have managed to get some organic traffic back to the project by removing the AI-generated content and improving other important content.",
+          descriptionListsTitle: "SEO experiment highlights",
           descriptionLists: [
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do",
-            "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
-            "Excepteur sint occaecat cupidatat non proident, sunt in culpa",
+            "It is an Italian language project, focused on finance.",
+            "The project started on January 1, 2023.",
+            "The project received a penalty for AI-generated content.",
           ],
           projectImage: [projectInner2Image?.src, projectInner1Image?.src],
         },
