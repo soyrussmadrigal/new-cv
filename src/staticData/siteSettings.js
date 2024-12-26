@@ -21,7 +21,7 @@ export const siteSettings = {
   logo: {
     image: logo?.src,
     alt: "Rus Madrigal",
-    url: "/",
+    url: "https://rusmadrigal.com/",
     text: "Rus Madrigal",
   },
   headersMenu: [
