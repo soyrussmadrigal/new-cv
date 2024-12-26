@@ -25,12 +25,19 @@ const poppins = Poppins({
 
 export const metadata = {
   title: "Hello, I'm Rus Madrigal | Senior Technical SEO & Data Enthusiast",
-  description: "Senior SEO professional with over 14 years of experience. Here, you can find my CV and examples of my previous work.",
+  description:
+    "Senior SEO professional with over 14 years of experience. Here, you can find my CV and examples of my previous work.",
+  alternates: {
+    canonical: "https://rusmadrigal.com/",
+  },
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning={true} className="scroll-smooth">
+      <head>
+        <link rel="canonical" href="https://rusmadrigal.com/" />
+      </head>
       <body
         className={`${poppins.className} relative`}
         suppressHydrationWarning={true}
