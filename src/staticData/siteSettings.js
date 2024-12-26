@@ -65,7 +65,7 @@ export const siteSettings = {
       Icon: <FaRegFileAlt />,
       notVisibleRoutes: [],
     },
-    {
+    /*{
       id: 6,
       title: "Portfolio",
       selector: "#portfolio",
@@ -81,6 +81,7 @@ export const siteSettings = {
       Icon: <LiaBlogSolid />,
       notVisibleRoutes: [],
     },
+    */
     {
       id: 8,
       title: "Testimonial",

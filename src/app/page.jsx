@@ -18,8 +18,6 @@ export default async function Home() {
       <Service />
       <Skills />
       <Resume />
-      <Portfolio />
-      <Blog />
       <Testimonial />
       <ContactMe />
       <Footer />
