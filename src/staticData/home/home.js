@@ -463,7 +463,8 @@ export const portfolio = {
       },
       type: "seo",
       title: "Arauze.com - SEO experiment project in the Italian market",
-      slug: "arauze-website-experimennt",
+      slug: "arauze-website-experiment",
+      
       projectHeading: {
         icon: <GrTasks className="text-theme" />,
         title: "Project Details",
