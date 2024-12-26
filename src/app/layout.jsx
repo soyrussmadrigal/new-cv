@@ -36,6 +36,9 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning={true} className="scroll-smooth">
       <head>
+        {/* Favicon */}
+        <link rel="icon" href="/assets/img/site-logo.svg" sizes="any" />
+        {/* Canonical */}
         <link rel="canonical" href="https://rusmadrigal.com/" />
       </head>
       <body
