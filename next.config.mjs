@@ -8,6 +8,11 @@ const nextConfig = {
         destination: '/', // Reemplaza con la URL de destino
         permanent: true,
       },
+      {
+        source: '/test',
+        destination: '/', // Reemplaza con la URL de destino
+        permanent: true,
+      },
     ];
   },
 };
