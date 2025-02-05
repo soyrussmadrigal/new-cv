@@ -105,7 +105,7 @@ export const siteSettings = {
       name: "YouTube",
       tooltip: "YouTube",
       Icon: <FaYoutube />,
-      url: "#",
+      url: "https://www.youtube.com/@rusmadrigal",
     },
     {
       id: 2,
