@@ -14,7 +14,7 @@ import {
 import { BsListTask } from "react-icons/bs";
 import { LiaBlogSolid } from "react-icons/lia";
 import { BiCommentDetail } from "react-icons/bi";
-import { FaRegUser } from "react-icons/fa6";
+import { FaRegUser, FaYoutube } from "react-icons/fa6";
 import { MdFormatListBulleted } from "react-icons/md";
 
 export const siteSettings = {
@@ -102,9 +102,9 @@ export const siteSettings = {
   socialMedias: [
     {
       id: 1,
-      name: "Facebook",
-      tooltip: "Share with Facebook",
-      Icon: <FaFacebook />,
+      name: "YouTube",
+      tooltip: "YouTube",
+      Icon: <FaYoutube />,
       url: "#",
     },
     {
@@ -112,21 +112,7 @@ export const siteSettings = {
       name: "Linkedin",
       tooltip: "Share with Linkedin",
       Icon: <FaLinkedin />,
-      url: "#",
-    },
-    {
-      id: 3,
-      name: "X",
-      tooltip: "Share with X",
-      Icon: <FaTwitter />,
-      url: "#",
-    },
-    {
-      id: 4,
-      name: "Instagram",
-      tooltip: "Share with Instagram",
-      Icon: <FaInstagram />,
-      url: "#",
+      url: "https://www.linkedin.com/in/rusmadrigal/",
     },
   ],
   preloader: {
