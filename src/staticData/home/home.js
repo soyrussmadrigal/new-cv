@@ -235,8 +235,8 @@ export const userDetailsSidebar = {
     },
     {
       id: 3,
-      field: "Age",
-      value: "36",
+      field: "SEO since",
+      value: "2009",
     },
   ],
   skillsInfo: [
