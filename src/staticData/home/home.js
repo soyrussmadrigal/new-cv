@@ -236,7 +236,7 @@ export const userDetailsSidebar = {
     {
       id: 3,
       field: "Age",
-      value: "35",
+      value: "36",
     },
   ],
   skillsInfo: [
